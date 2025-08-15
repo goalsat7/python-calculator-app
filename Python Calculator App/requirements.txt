@@ -1,0 +1,3 @@
+# requirements.txt
+
+# This project uses standard Python libraries, no extra installations required
